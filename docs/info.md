@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+It outputs the multiplication of two inputs.
 
 ## How to test
 
-Explain how to use your project
+Insert two inputs to A and B and check if the output is the product of the two inputs. 
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+We do not need external hardware. 
